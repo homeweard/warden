@@ -8,3 +8,6 @@
 
 ### Trae ###
 .trae
+
+### env files ###
+.env
