@@ -1,1 +1,10 @@
 /target
+
+### RustRover ###
+.idea
+
+### VS Code ###
+.vscode
+
+### Trae ###
+.trae
